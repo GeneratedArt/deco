@@ -4,7 +4,7 @@ date: 2019-04-18T12:33:46+10:00
 weight: 7
 ---
 
-Elevate any space with stunning generative art murals. Whether in a commercial or private setting, these visually striking designs can inspire creativity and transform any room into an immersive work of art.
+Revitalize any space with mesmerizing generative art murals. Perfect for both commercial and private settings, these visually impressive designs spark creativity and metamorphose any room into an immersive artistic experience.
 
 ![Murals](/images/illustrations/murals.png)
 
