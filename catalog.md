@@ -13,11 +13,18 @@ Discover our captivating generative art decoration catalogs, featuring diverse c
 
 # Digital displays
 
+Coming soon..
+
 # Murals
+
+Coming soon..
 
 # Window art
 
+Coming soon..
 
 # Flooring
+
+Coming soon..
 
 
